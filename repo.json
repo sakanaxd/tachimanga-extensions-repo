@@ -1,0 +1,9 @@
+{
+  "index_v2": "https://raw.githubusercontent.com/sakanaxd/tachimanga-extensions-repo/main/index.pb",
+  "meta": {
+    "name": "Komga Home",
+    "shortName": "HOME",
+    "website": "https://github.com/sakanaxd/tachimanga-extensions-repo",
+    "signingKeyFingerprint": "811e22111ae4b05393d324fef1090871d944bfd0a0b7ab7b6e5a3e59c1ab3003"
+  }
+}
