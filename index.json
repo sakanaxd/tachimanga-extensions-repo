@@ -1,0 +1,33 @@
+{
+  "name": "Komga Home",
+  "badgeLabel": "HOME",
+  "signingKey": "811e22111ae4b05393d324fef1090871d944bfd0a0b7ab7b6e5a3e59c1ab3003",
+  "contact": {
+    "website": "https://github.com/sakanaxd/tachimanga-extensions-repo"
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "Komga Home",
+        "packageName": "eu.kanade.tachiyomi.extension.all.komgahome",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/sakanaxd/tachimanga-extensions-repo/main/apk/tachiyomi-all.komgahome-v1.6.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/sakanaxd/tachimanga-extensions-repo/main/icon/eu.kanade.tachiyomi.extension.all.komgahome.png",
+          "jarUrl": "https://raw.githubusercontent.com/sakanaxd/tachimanga-extensions-repo/main/jar/tachiyomi-all.komgahome-v1.6.1.jar"
+        },
+        "extensionLib": "1.6",
+        "versionCode": "106001",
+        "versionName": "1.6.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "1018535770040427534",
+            "name": "Komga Home",
+            "language": "all",
+            "homeUrl": "https://127.0.0.1:25600"
+          }
+        ]
+      }
+    ]
+  }
+}
